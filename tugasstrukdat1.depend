@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664465496 source:c:\users\asus\documents\alpro\pap 9\pap 9\tugasstrukdat1\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
